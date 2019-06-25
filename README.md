@@ -2,4 +2,4 @@
 
 Hi Everybody;
 
-This is a test doqument by Shigeru Oyama.
+This is a test document by Shigeru Oyama.
